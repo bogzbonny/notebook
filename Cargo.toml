@@ -2,5 +2,13 @@
 name = "notebook"
 version = "0.0.1"
 edition = "2021"
+authors = ["Bogz Bonny <bogzbonny@protonmail.com>"] 
+keywords = ["tui", "terminal"]
+description = "Note Taking Application Extroidenair!"
+documentation = "https://docs.rs/notebook/latest/notebook/"
+repository = "https://github.com/bogzbonny/notebook"
+categories = ["command-line-interface", "command-line-utilities"]
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
