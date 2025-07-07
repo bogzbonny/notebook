@@ -12,3 +12,6 @@ readme = "README.md"
 license = "MIT"
 
 [dependencies]
+clap = "4.5.40"
+time = {version = "^0.3.41", features = ["parsing", "macros", "formatting"]}
+snafu = { version = "^0.8.0", features = ["backtrace"] }

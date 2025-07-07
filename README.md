@@ -5,6 +5,8 @@
    - abstract out the file system logic such that other applications can 
      use it as a backend without having to install notebook itself
    - integrate in bat for the mini TUI 
+
+
    - similar: (i just searched "file tag" on crates ... wow 11 projects)
      - https://crates.io/crates/rustag
        - uses fuzzy search

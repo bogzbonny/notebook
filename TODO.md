@@ -3,15 +3,17 @@
 
 GENERAL
 
-- transcription with https://github.com/floneum/floneum
+- audio transcription with https://github.com/floneum/floneum
 
 - qe... seperate binary... quick entry 
+   - maybe nb quick [tags] <text to add>
    - maybe the default nb interface opens up the mini-cli by default
      - if you hit enter immediately from here it will open up the default
        nb space.... I guess that makes sense as it will just open up the
        guy with no tags.
 
 - nb --add [tags/or index number] <text too add>
+  nb -a [tags/or index number] <text too add>
    - quick addendum to an idea
    - maybe should be interactive 
       - only add the text afterwords 
@@ -102,14 +104,6 @@ GENERAL
   - <nb-1892> - this will link to idea number 1892 
   - when the cursor is over <1892>, need to build vim scripts so that `gf` will 
     open up that idea in a new tab
-
-
-----------------------------------------------------------------------------------                                                                          
-TRANSCRIPTION
-- :q during transcription of tagging
-- ability to use SHIFT+Enter during transcription
-- UNDO command during transcription
-- UNDO command during tagging
 
 ----------------------------------------------------------------------------------                                                                          
 BOOKMARK MANAGER
